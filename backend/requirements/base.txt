@@ -1,0 +1,10 @@
+Django==4.2.7
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+django-environ==0.11.2
+python-dotenv==1.0.0
+psycopg2-binary==2.9.9  # PostgreSQL driver
+redis==4.6.0  # For caching and Celery
+django-rest-framework-simplejwt==5.2.2  # JWT auth
+Pillow==10.1.0  # Image handling
+djangorestframework-simplejwt==5.2.2
