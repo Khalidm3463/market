@@ -1,0 +1,13 @@
+{
+    "homepage": {
+      "title": "Trending Middle Eastern Fashion"
+    },
+    "cart": "Cart",
+    "login": "Login",
+    "logout": "Logout",
+    "categories": {
+      "kaftans": "Kaftans",
+      "abayas": "Abayas",
+      "kanduras": "Kanduras"
+    }
+  }
